@@ -1,0 +1,5 @@
+C:\Users\Roxze\Desktop\Programming\CSharp\Challenge-Project-variable-data-in-CSharp-main\Starter\obj\Debug\net7.0\Starter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roxze\Desktop\Programming\CSharp\Challenge-Project-variable-data-in-CSharp-main\Starter\obj\Debug\net7.0\Starter.AssemblyInfoInputs.cache
+C:\Users\Roxze\Desktop\Programming\CSharp\Challenge-Project-variable-data-in-CSharp-main\Starter\obj\Debug\net7.0\Starter.AssemblyInfo.cs
+C:\Users\Roxze\Desktop\Programming\CSharp\Challenge-Project-variable-data-in-CSharp-main\Starter\obj\Debug\net7.0\Starter.csproj.CoreCompileInputs.cache
+C:\Users\Roxze\Desktop\Programming\CSharp\Challenge-Project-variable-data-in-CSharp-main\Starter\obj\Debug\net7.0\Starter.sourcelink.json

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "challenge to extract, replace, and remove data from an input string/1.0.0": {
+        "runtime": {
+          "challenge to extract, replace, and remove data from an input string.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "challenge to extract, replace, and remove data from an input string/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
