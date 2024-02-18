@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "challenge to parse a string of orders, sort the orders and tag possible errors/1.0.0": {
+        "runtime": {
+          "challenge to parse a string of orders, sort the orders and tag possible errors.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "challenge to parse a string of orders, sort the orders and tag possible errors/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
