@@ -1,0 +1,14 @@
+C:\Users\Roxze\Desktop\Programming\CSharp\Perform operatıons on arrays\bin\Debug\net8.0\Perform operatıons on arrays.exe
+C:\Users\Roxze\Desktop\Programming\CSharp\Perform operatıons on arrays\bin\Debug\net8.0\Perform operatıons on arrays.deps.json
+C:\Users\Roxze\Desktop\Programming\CSharp\Perform operatıons on arrays\bin\Debug\net8.0\Perform operatıons on arrays.runtimeconfig.json
+C:\Users\Roxze\Desktop\Programming\CSharp\Perform operatıons on arrays\bin\Debug\net8.0\Perform operatıons on arrays.dll
+C:\Users\Roxze\Desktop\Programming\CSharp\Perform operatıons on arrays\bin\Debug\net8.0\Perform operatıons on arrays.pdb
+C:\Users\Roxze\Desktop\Programming\CSharp\Perform operatıons on arrays\obj\Debug\net8.0\Perform operatıons on arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roxze\Desktop\Programming\CSharp\Perform operatıons on arrays\obj\Debug\net8.0\Perform operatıons on arrays.AssemblyInfoInputs.cache
+C:\Users\Roxze\Desktop\Programming\CSharp\Perform operatıons on arrays\obj\Debug\net8.0\Perform operatıons on arrays.AssemblyInfo.cs
+C:\Users\Roxze\Desktop\Programming\CSharp\Perform operatıons on arrays\obj\Debug\net8.0\Perform operatıons on arrays.csproj.CoreCompileInputs.cache
+C:\Users\Roxze\Desktop\Programming\CSharp\Perform operatıons on arrays\obj\Debug\net8.0\Perform operatıons on arrays.dll
+C:\Users\Roxze\Desktop\Programming\CSharp\Perform operatıons on arrays\obj\Debug\net8.0\refint\Perform operatıons on arrays.dll
+C:\Users\Roxze\Desktop\Programming\CSharp\Perform operatıons on arrays\obj\Debug\net8.0\Perform operatıons on arrays.pdb
+C:\Users\Roxze\Desktop\Programming\CSharp\Perform operatıons on arrays\obj\Debug\net8.0\Perform operatıons on arrays.genruntimeconfig.cache
+C:\Users\Roxze\Desktop\Programming\CSharp\Perform operatıons on arrays\obj\Debug\net8.0\ref\Perform operatıons on arrays.dll

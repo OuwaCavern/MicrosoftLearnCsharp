@@ -1,0 +1,14 @@
+C:\Users\Roxze\Desktop\Programming\CSharp\challenge to combine string array values as strings and as integers\obj\Debug\net8.0\challenge to combine string array values as strings and as integers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roxze\Desktop\Programming\CSharp\challenge to combine string array values as strings and as integers\obj\Debug\net8.0\challenge to combine string array values as strings and as integers.AssemblyInfoInputs.cache
+C:\Users\Roxze\Desktop\Programming\CSharp\challenge to combine string array values as strings and as integers\obj\Debug\net8.0\challenge to combine string array values as strings and as integers.AssemblyInfo.cs
+C:\Users\Roxze\Desktop\Programming\CSharp\challenge to combine string array values as strings and as integers\obj\Debug\net8.0\challenge to combine string array values as strings and as integers.csproj.CoreCompileInputs.cache
+C:\Users\Roxze\Desktop\Programming\CSharp\challenge to combine string array values as strings and as integers\bin\Debug\net8.0\challenge to combine string array values as strings and as integers.exe
+C:\Users\Roxze\Desktop\Programming\CSharp\challenge to combine string array values as strings and as integers\bin\Debug\net8.0\challenge to combine string array values as strings and as integers.deps.json
+C:\Users\Roxze\Desktop\Programming\CSharp\challenge to combine string array values as strings and as integers\bin\Debug\net8.0\challenge to combine string array values as strings and as integers.runtimeconfig.json
+C:\Users\Roxze\Desktop\Programming\CSharp\challenge to combine string array values as strings and as integers\bin\Debug\net8.0\challenge to combine string array values as strings and as integers.dll
+C:\Users\Roxze\Desktop\Programming\CSharp\challenge to combine string array values as strings and as integers\bin\Debug\net8.0\challenge to combine string array values as strings and as integers.pdb
+C:\Users\Roxze\Desktop\Programming\CSharp\challenge to combine string array values as strings and as integers\obj\Debug\net8.0\challenge to combine string array values as strings and as integers.dll
+C:\Users\Roxze\Desktop\Programming\CSharp\challenge to combine string array values as strings and as integers\obj\Debug\net8.0\refint\challenge to combine string array values as strings and as integers.dll
+C:\Users\Roxze\Desktop\Programming\CSharp\challenge to combine string array values as strings and as integers\obj\Debug\net8.0\challenge to combine string array values as strings and as integers.pdb
+C:\Users\Roxze\Desktop\Programming\CSharp\challenge to combine string array values as strings and as integers\obj\Debug\net8.0\challenge to combine string array values as strings and as integers.genruntimeconfig.cache
+C:\Users\Roxze\Desktop\Programming\CSharp\challenge to combine string array values as strings and as integers\obj\Debug\net8.0\ref\challenge to combine string array values as strings and as integers.dll

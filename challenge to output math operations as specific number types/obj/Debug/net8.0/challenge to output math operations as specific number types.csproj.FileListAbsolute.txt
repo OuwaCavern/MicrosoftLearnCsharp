@@ -1,0 +1,14 @@
+C:\Users\Roxze\Desktop\Programming\CSharp\challenge to output math operations as specific number types\obj\Debug\net8.0\challenge to output math operations as specific number types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roxze\Desktop\Programming\CSharp\challenge to output math operations as specific number types\obj\Debug\net8.0\challenge to output math operations as specific number types.AssemblyInfoInputs.cache
+C:\Users\Roxze\Desktop\Programming\CSharp\challenge to output math operations as specific number types\obj\Debug\net8.0\challenge to output math operations as specific number types.AssemblyInfo.cs
+C:\Users\Roxze\Desktop\Programming\CSharp\challenge to output math operations as specific number types\obj\Debug\net8.0\challenge to output math operations as specific number types.csproj.CoreCompileInputs.cache
+C:\Users\Roxze\Desktop\Programming\CSharp\challenge to output math operations as specific number types\bin\Debug\net8.0\challenge to output math operations as specific number types.exe
+C:\Users\Roxze\Desktop\Programming\CSharp\challenge to output math operations as specific number types\bin\Debug\net8.0\challenge to output math operations as specific number types.deps.json
+C:\Users\Roxze\Desktop\Programming\CSharp\challenge to output math operations as specific number types\bin\Debug\net8.0\challenge to output math operations as specific number types.runtimeconfig.json
+C:\Users\Roxze\Desktop\Programming\CSharp\challenge to output math operations as specific number types\bin\Debug\net8.0\challenge to output math operations as specific number types.dll
+C:\Users\Roxze\Desktop\Programming\CSharp\challenge to output math operations as specific number types\bin\Debug\net8.0\challenge to output math operations as specific number types.pdb
+C:\Users\Roxze\Desktop\Programming\CSharp\challenge to output math operations as specific number types\obj\Debug\net8.0\challenge to output math operations as specific number types.dll
+C:\Users\Roxze\Desktop\Programming\CSharp\challenge to output math operations as specific number types\obj\Debug\net8.0\refint\challenge to output math operations as specific number types.dll
+C:\Users\Roxze\Desktop\Programming\CSharp\challenge to output math operations as specific number types\obj\Debug\net8.0\challenge to output math operations as specific number types.pdb
+C:\Users\Roxze\Desktop\Programming\CSharp\challenge to output math operations as specific number types\obj\Debug\net8.0\challenge to output math operations as specific number types.genruntimeconfig.cache
+C:\Users\Roxze\Desktop\Programming\CSharp\challenge to output math operations as specific number types\obj\Debug\net8.0\ref\challenge to output math operations as specific number types.dll
