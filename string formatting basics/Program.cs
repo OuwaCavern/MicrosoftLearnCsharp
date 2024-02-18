@@ -20,3 +20,13 @@ Console.WriteLine($"Price: {price:C} (Save {discount:C})");
 //Notice how adding the :C to the tokens inside of the curly braces formats the number as currency regardless of whether you use int or decimal.
 // the string formatting syntax might use a different format depending on the user's culture ($ for USA, € for European countries etc.).
 
+
+decimal measurement = 123456.78912m;
+Console.WriteLine($"Measurement: {measurement:N4} units");
+//Measurement: 123,456.7891 units. The number that comes after :N defines the number of decimal points.
+
+
+decimal tax = .36785m;
+Console.WriteLine($"Tax rate: {tax:P2}");
+//Tax rate: 36.79 %
+

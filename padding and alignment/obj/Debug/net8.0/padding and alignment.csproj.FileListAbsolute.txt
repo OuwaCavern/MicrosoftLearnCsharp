@@ -1,0 +1,15 @@
+C:\Users\Roxze\Desktop\Programming\CSharp\padding and alignment\bin\Debug\net8.0\padding and alignment.exe
+C:\Users\Roxze\Desktop\Programming\CSharp\padding and alignment\bin\Debug\net8.0\padding and alignment.deps.json
+C:\Users\Roxze\Desktop\Programming\CSharp\padding and alignment\bin\Debug\net8.0\padding and alignment.runtimeconfig.json
+C:\Users\Roxze\Desktop\Programming\CSharp\padding and alignment\bin\Debug\net8.0\padding and alignment.dll
+C:\Users\Roxze\Desktop\Programming\CSharp\padding and alignment\bin\Debug\net8.0\padding and alignment.pdb
+C:\Users\Roxze\Desktop\Programming\CSharp\padding and alignment\obj\Debug\net8.0\padding and alignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roxze\Desktop\Programming\CSharp\padding and alignment\obj\Debug\net8.0\padding and alignment.AssemblyInfoInputs.cache
+C:\Users\Roxze\Desktop\Programming\CSharp\padding and alignment\obj\Debug\net8.0\padding and alignment.AssemblyInfo.cs
+C:\Users\Roxze\Desktop\Programming\CSharp\padding and alignment\obj\Debug\net8.0\padding and alignment.csproj.CoreCompileInputs.cache
+C:\Users\Roxze\Desktop\Programming\CSharp\padding and alignment\obj\Debug\net8.0\padding and alignment.sourcelink.json
+C:\Users\Roxze\Desktop\Programming\CSharp\padding and alignment\obj\Debug\net8.0\padding and alignment.dll
+C:\Users\Roxze\Desktop\Programming\CSharp\padding and alignment\obj\Debug\net8.0\refint\padding and alignment.dll
+C:\Users\Roxze\Desktop\Programming\CSharp\padding and alignment\obj\Debug\net8.0\padding and alignment.pdb
+C:\Users\Roxze\Desktop\Programming\CSharp\padding and alignment\obj\Debug\net8.0\padding and alignment.genruntimeconfig.cache
+C:\Users\Roxze\Desktop\Programming\CSharp\padding and alignment\obj\Debug\net8.0\ref\padding and alignment.dll
