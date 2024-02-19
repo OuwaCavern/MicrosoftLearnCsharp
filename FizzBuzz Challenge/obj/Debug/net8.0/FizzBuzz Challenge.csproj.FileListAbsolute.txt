@@ -1,0 +1,14 @@
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\FizzBuzz Challenge\obj\Debug\net8.0\FizzBuzz Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\FizzBuzz Challenge\obj\Debug\net8.0\FizzBuzz Challenge.AssemblyInfoInputs.cache
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\FizzBuzz Challenge\obj\Debug\net8.0\FizzBuzz Challenge.AssemblyInfo.cs
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\FizzBuzz Challenge\obj\Debug\net8.0\FizzBuzz Challenge.csproj.CoreCompileInputs.cache
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\FizzBuzz Challenge\bin\Debug\net8.0\FizzBuzz Challenge.exe
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\FizzBuzz Challenge\bin\Debug\net8.0\FizzBuzz Challenge.deps.json
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\FizzBuzz Challenge\bin\Debug\net8.0\FizzBuzz Challenge.runtimeconfig.json
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\FizzBuzz Challenge\bin\Debug\net8.0\FizzBuzz Challenge.dll
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\FizzBuzz Challenge\bin\Debug\net8.0\FizzBuzz Challenge.pdb
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\FizzBuzz Challenge\obj\Debug\net8.0\FizzBuzz Challenge.dll
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\FizzBuzz Challenge\obj\Debug\net8.0\refint\FizzBuzz Challenge.dll
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\FizzBuzz Challenge\obj\Debug\net8.0\FizzBuzz Challenge.pdb
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\FizzBuzz Challenge\obj\Debug\net8.0\FizzBuzz Challenge.genruntimeconfig.cache
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\FizzBuzz Challenge\obj\Debug\net8.0\ref\FizzBuzz Challenge.dll

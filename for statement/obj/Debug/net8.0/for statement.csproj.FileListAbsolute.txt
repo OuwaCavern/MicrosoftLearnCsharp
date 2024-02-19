@@ -1,0 +1,14 @@
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\for statement\bin\Debug\net8.0\for statement.exe
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\for statement\bin\Debug\net8.0\for statement.deps.json
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\for statement\bin\Debug\net8.0\for statement.runtimeconfig.json
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\for statement\bin\Debug\net8.0\for statement.dll
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\for statement\bin\Debug\net8.0\for statement.pdb
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\for statement\obj\Debug\net8.0\for statement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\for statement\obj\Debug\net8.0\for statement.AssemblyInfoInputs.cache
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\for statement\obj\Debug\net8.0\for statement.AssemblyInfo.cs
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\for statement\obj\Debug\net8.0\for statement.csproj.CoreCompileInputs.cache
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\for statement\obj\Debug\net8.0\for statement.dll
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\for statement\obj\Debug\net8.0\refint\for statement.dll
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\for statement\obj\Debug\net8.0\for statement.pdb
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\for statement\obj\Debug\net8.0\for statement.genruntimeconfig.cache
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\for statement\obj\Debug\net8.0\ref\for statement.dll

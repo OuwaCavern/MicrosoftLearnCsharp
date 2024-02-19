@@ -1,0 +1,14 @@
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\Switch to switch challenge\obj\Debug\net8.0\Switch to switch challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\Switch to switch challenge\obj\Debug\net8.0\Switch to switch challenge.AssemblyInfoInputs.cache
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\Switch to switch challenge\obj\Debug\net8.0\Switch to switch challenge.AssemblyInfo.cs
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\Switch to switch challenge\obj\Debug\net8.0\Switch to switch challenge.csproj.CoreCompileInputs.cache
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\Switch to switch challenge\bin\Debug\net8.0\Switch to switch challenge.exe
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\Switch to switch challenge\bin\Debug\net8.0\Switch to switch challenge.deps.json
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\Switch to switch challenge\bin\Debug\net8.0\Switch to switch challenge.runtimeconfig.json
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\Switch to switch challenge\bin\Debug\net8.0\Switch to switch challenge.dll
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\Switch to switch challenge\bin\Debug\net8.0\Switch to switch challenge.pdb
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\Switch to switch challenge\obj\Debug\net8.0\Switch to switch challenge.dll
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\Switch to switch challenge\obj\Debug\net8.0\refint\Switch to switch challenge.dll
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\Switch to switch challenge\obj\Debug\net8.0\Switch to switch challenge.pdb
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\Switch to switch challenge\obj\Debug\net8.0\Switch to switch challenge.genruntimeconfig.cache
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\Switch to switch challenge\obj\Debug\net8.0\ref\Switch to switch challenge.dll

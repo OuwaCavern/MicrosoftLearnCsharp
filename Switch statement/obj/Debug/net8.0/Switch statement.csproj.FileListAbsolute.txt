@@ -1,0 +1,14 @@
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\Switch statement\obj\Debug\net8.0\Switch statement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\Switch statement\obj\Debug\net8.0\Switch statement.AssemblyInfoInputs.cache
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\Switch statement\obj\Debug\net8.0\Switch statement.AssemblyInfo.cs
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\Switch statement\obj\Debug\net8.0\Switch statement.csproj.CoreCompileInputs.cache
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\Switch statement\bin\Debug\net8.0\Switch statement.exe
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\Switch statement\bin\Debug\net8.0\Switch statement.deps.json
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\Switch statement\bin\Debug\net8.0\Switch statement.runtimeconfig.json
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\Switch statement\bin\Debug\net8.0\Switch statement.dll
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\Switch statement\bin\Debug\net8.0\Switch statement.pdb
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\Switch statement\obj\Debug\net8.0\Switch statement.dll
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\Switch statement\obj\Debug\net8.0\refint\Switch statement.dll
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\Switch statement\obj\Debug\net8.0\Switch statement.pdb
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\Switch statement\obj\Debug\net8.0\Switch statement.genruntimeconfig.cache
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\Switch statement\obj\Debug\net8.0\ref\Switch statement.dll

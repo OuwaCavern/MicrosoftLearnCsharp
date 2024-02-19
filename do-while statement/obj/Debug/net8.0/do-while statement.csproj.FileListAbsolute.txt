@@ -1,0 +1,14 @@
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\do-while statement\obj\Debug\net8.0\do-while statement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\do-while statement\obj\Debug\net8.0\do-while statement.AssemblyInfoInputs.cache
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\do-while statement\obj\Debug\net8.0\do-while statement.AssemblyInfo.cs
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\do-while statement\obj\Debug\net8.0\do-while statement.csproj.CoreCompileInputs.cache
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\do-while statement\bin\Debug\net8.0\do-while statement.exe
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\do-while statement\bin\Debug\net8.0\do-while statement.deps.json
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\do-while statement\bin\Debug\net8.0\do-while statement.runtimeconfig.json
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\do-while statement\bin\Debug\net8.0\do-while statement.dll
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\do-while statement\bin\Debug\net8.0\do-while statement.pdb
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\do-while statement\obj\Debug\net8.0\do-while statement.dll
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\do-while statement\obj\Debug\net8.0\refint\do-while statement.dll
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\do-while statement\obj\Debug\net8.0\do-while statement.pdb
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\do-while statement\obj\Debug\net8.0\do-while statement.genruntimeconfig.cache
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\do-while statement\obj\Debug\net8.0\ref\do-while statement.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Decision logic challenge/1.0.0": {
+        "runtime": {
+          "Decision logic challenge.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Decision logic challenge/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\declaring_arrays\obj\Debug\net8.0\declaring_arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\declaring_arrays\obj\Debug\net8.0\declaring_arrays.AssemblyInfoInputs.cache
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\declaring_arrays\obj\Debug\net8.0\declaring_arrays.AssemblyInfo.cs
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\declaring_arrays\obj\Debug\net8.0\declaring_arrays.csproj.CoreCompileInputs.cache
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\declaring_arrays\bin\Debug\net8.0\declaring_arrays.exe
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\declaring_arrays\bin\Debug\net8.0\declaring_arrays.deps.json
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\declaring_arrays\bin\Debug\net8.0\declaring_arrays.runtimeconfig.json
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\declaring_arrays\bin\Debug\net8.0\declaring_arrays.dll
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\declaring_arrays\bin\Debug\net8.0\declaring_arrays.pdb
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\declaring_arrays\obj\Debug\net8.0\declaring_arrays.dll
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\declaring_arrays\obj\Debug\net8.0\refint\declaring_arrays.dll
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\declaring_arrays\obj\Debug\net8.0\declaring_arrays.pdb
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\declaring_arrays\obj\Debug\net8.0\declaring_arrays.genruntimeconfig.cache
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\declaring_arrays\obj\Debug\net8.0\ref\declaring_arrays.dll

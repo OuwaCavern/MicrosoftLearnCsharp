@@ -1,0 +1,14 @@
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\Code blocks\obj\Debug\net8.0\Code blocks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\Code blocks\obj\Debug\net8.0\Code blocks.AssemblyInfoInputs.cache
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\Code blocks\obj\Debug\net8.0\Code blocks.AssemblyInfo.cs
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\Code blocks\obj\Debug\net8.0\Code blocks.csproj.CoreCompileInputs.cache
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\Code blocks\bin\Debug\net8.0\Code blocks.exe
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\Code blocks\bin\Debug\net8.0\Code blocks.deps.json
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\Code blocks\bin\Debug\net8.0\Code blocks.runtimeconfig.json
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\Code blocks\bin\Debug\net8.0\Code blocks.dll
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\Code blocks\bin\Debug\net8.0\Code blocks.pdb
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\Code blocks\obj\Debug\net8.0\Code blocks.dll
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\Code blocks\obj\Debug\net8.0\refint\Code blocks.dll
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\Code blocks\obj\Debug\net8.0\Code blocks.pdb
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\Code blocks\obj\Debug\net8.0\Code blocks.genruntimeconfig.cache
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\Code blocks\obj\Debug\net8.0\ref\Code blocks.dll

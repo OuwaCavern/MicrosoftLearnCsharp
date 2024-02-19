@@ -1,0 +1,14 @@
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\improve_renewal\obj\Debug\net8.0\improve_renewal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\improve_renewal\obj\Debug\net8.0\improve_renewal.AssemblyInfoInputs.cache
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\improve_renewal\obj\Debug\net8.0\improve_renewal.AssemblyInfo.cs
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\improve_renewal\obj\Debug\net8.0\improve_renewal.csproj.CoreCompileInputs.cache
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\improve_renewal\bin\Debug\net8.0\improve_renewal.exe
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\improve_renewal\bin\Debug\net8.0\improve_renewal.deps.json
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\improve_renewal\bin\Debug\net8.0\improve_renewal.runtimeconfig.json
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\improve_renewal\bin\Debug\net8.0\improve_renewal.dll
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\improve_renewal\bin\Debug\net8.0\improve_renewal.pdb
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\improve_renewal\obj\Debug\net8.0\improve_renewal.dll
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\improve_renewal\obj\Debug\net8.0\refint\improve_renewal.dll
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\improve_renewal\obj\Debug\net8.0\improve_renewal.pdb
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\improve_renewal\obj\Debug\net8.0\improve_renewal.genruntimeconfig.cache
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\improve_renewal\obj\Debug\net8.0\ref\improve_renewal.dll

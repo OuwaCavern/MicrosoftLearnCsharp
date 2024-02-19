@@ -1,0 +1,28 @@
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\TestProject\bin\Debug\net8.0\TestProject.exe
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\TestProject\bin\Debug\net8.0\TestProject.deps.json
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\TestProject\bin\Debug\net8.0\TestProject.runtimeconfig.json
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\TestProject\bin\Debug\net8.0\TestProject.dll
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\TestProject\bin\Debug\net8.0\TestProject.pdb
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.AssemblyInfoInputs.cache
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.AssemblyInfo.cs
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.dll
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\TestProject\obj\Debug\net8.0\refint\TestProject.dll
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.pdb
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.genruntimeconfig.cache
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\TestProject\obj\Debug\net8.0\ref\TestProject.dll
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\3 Dice Rolls Project\bin\Debug\net8.0\TestProject.exe
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\3 Dice Rolls Project\bin\Debug\net8.0\TestProject.deps.json
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\3 Dice Rolls Project\bin\Debug\net8.0\TestProject.runtimeconfig.json
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\3 Dice Rolls Project\bin\Debug\net8.0\TestProject.dll
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\3 Dice Rolls Project\bin\Debug\net8.0\TestProject.pdb
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\3 Dice Rolls Project\obj\Debug\net8.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\3 Dice Rolls Project\obj\Debug\net8.0\TestProject.AssemblyInfoInputs.cache
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\3 Dice Rolls Project\obj\Debug\net8.0\TestProject.AssemblyInfo.cs
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\3 Dice Rolls Project\obj\Debug\net8.0\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\3 Dice Rolls Project\obj\Debug\net8.0\TestProject.dll
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\3 Dice Rolls Project\obj\Debug\net8.0\refint\TestProject.dll
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\3 Dice Rolls Project\obj\Debug\net8.0\TestProject.pdb
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\3 Dice Rolls Project\obj\Debug\net8.0\TestProject.genruntimeconfig.cache
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\3 Dice Rolls Project\obj\Debug\net8.0\ref\TestProject.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Coin flip challenge/1.0.0": {
+        "runtime": {
+          "Coin flip challenge.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Coin flip challenge/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

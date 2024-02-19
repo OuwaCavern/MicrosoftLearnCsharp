@@ -1,0 +1,14 @@
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\Integer data type\bin\Debug\net8.0\Integer data type.exe
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\Integer data type\bin\Debug\net8.0\Integer data type.deps.json
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\Integer data type\bin\Debug\net8.0\Integer data type.runtimeconfig.json
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\Integer data type\bin\Debug\net8.0\Integer data type.dll
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\Integer data type\bin\Debug\net8.0\Integer data type.pdb
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\Integer data type\obj\Debug\net8.0\Integer data type.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\Integer data type\obj\Debug\net8.0\Integer data type.AssemblyInfoInputs.cache
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\Integer data type\obj\Debug\net8.0\Integer data type.AssemblyInfo.cs
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\Integer data type\obj\Debug\net8.0\Integer data type.csproj.CoreCompileInputs.cache
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\Integer data type\obj\Debug\net8.0\Integer data type.dll
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\Integer data type\obj\Debug\net8.0\refint\Integer data type.dll
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\Integer data type\obj\Debug\net8.0\Integer data type.pdb
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\Integer data type\obj\Debug\net8.0\Integer data type.genruntimeconfig.cache
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\Integer data type\obj\Debug\net8.0\ref\Integer data type.dll

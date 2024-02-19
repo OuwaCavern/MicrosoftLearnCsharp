@@ -1,0 +1,14 @@
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\Evaluate a boolean expression\obj\Debug\net8.0\Evaluate a boolean expression.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\Evaluate a boolean expression\obj\Debug\net8.0\Evaluate a boolean expression.AssemblyInfoInputs.cache
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\Evaluate a boolean expression\obj\Debug\net8.0\Evaluate a boolean expression.AssemblyInfo.cs
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\Evaluate a boolean expression\obj\Debug\net8.0\Evaluate a boolean expression.csproj.CoreCompileInputs.cache
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\Evaluate a boolean expression\bin\Debug\net8.0\Evaluate a boolean expression.exe
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\Evaluate a boolean expression\bin\Debug\net8.0\Evaluate a boolean expression.deps.json
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\Evaluate a boolean expression\bin\Debug\net8.0\Evaluate a boolean expression.runtimeconfig.json
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\Evaluate a boolean expression\bin\Debug\net8.0\Evaluate a boolean expression.dll
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\Evaluate a boolean expression\bin\Debug\net8.0\Evaluate a boolean expression.pdb
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\Evaluate a boolean expression\obj\Debug\net8.0\Evaluate a boolean expression.dll
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\Evaluate a boolean expression\obj\Debug\net8.0\refint\Evaluate a boolean expression.dll
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\Evaluate a boolean expression\obj\Debug\net8.0\Evaluate a boolean expression.pdb
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\Evaluate a boolean expression\obj\Debug\net8.0\Evaluate a boolean expression.genruntimeconfig.cache
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\Evaluate a boolean expression\obj\Debug\net8.0\ref\Evaluate a boolean expression.dll
