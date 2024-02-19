@@ -1,0 +1,18 @@
+Student	Grade
+
+Sophia: 94.6    A
+Nicolas:    83.6    B
+Zahirah:    83.4    B
+Jeong:  95.4    A
+Notice that despite using a tab instead of a space character, some lines still don't have much whitespace between the student's name and their numeric score.
+
+This difference is due to the way that tab spacing is applied. Tab stop locations are set at four-character intervals, and each tab will advance to the next tab stop location. If you have a string of five characters followed by a tab escape sequence, the escape sequence will advance to the tab stop at the eight-character location, filling the gap with space characters to create whitespace in the output. However, you can advance to the same location if you have a string of seven characters followed by a tab escape sequence. This makes tab escape sequences more noticeable when they occur further from the next tab stop location.
+
+To make the whitespace more noticeable between the first two columns, add another \t after the two shorter student names as follows:
+
+
+Console.WriteLine("Student\t\tGrade\n");
+Console.WriteLine("Sophia:\t\t" + sophiaScore + "\tA");
+Console.WriteLine("Nicolas:\t" + nicolasScore + "\tB");
+Console.WriteLine("Zahirah:\t" + zahirahScore + "\tB");
+Console.WriteLine("Jeong:\t\t" + jeongScore + "\tA");

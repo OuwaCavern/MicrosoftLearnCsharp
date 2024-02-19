@@ -1,0 +1,14 @@
+C:\Users\Roxze\Desktop\Programming\CSharp\CsharpProjects\MathChallenge\bin\Debug\net8.0\MathChallenge.exe
+C:\Users\Roxze\Desktop\Programming\CSharp\CsharpProjects\MathChallenge\bin\Debug\net8.0\MathChallenge.deps.json
+C:\Users\Roxze\Desktop\Programming\CSharp\CsharpProjects\MathChallenge\bin\Debug\net8.0\MathChallenge.runtimeconfig.json
+C:\Users\Roxze\Desktop\Programming\CSharp\CsharpProjects\MathChallenge\bin\Debug\net8.0\MathChallenge.dll
+C:\Users\Roxze\Desktop\Programming\CSharp\CsharpProjects\MathChallenge\bin\Debug\net8.0\MathChallenge.pdb
+C:\Users\Roxze\Desktop\Programming\CSharp\CsharpProjects\MathChallenge\obj\Debug\net8.0\MathChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roxze\Desktop\Programming\CSharp\CsharpProjects\MathChallenge\obj\Debug\net8.0\MathChallenge.AssemblyInfoInputs.cache
+C:\Users\Roxze\Desktop\Programming\CSharp\CsharpProjects\MathChallenge\obj\Debug\net8.0\MathChallenge.AssemblyInfo.cs
+C:\Users\Roxze\Desktop\Programming\CSharp\CsharpProjects\MathChallenge\obj\Debug\net8.0\MathChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Roxze\Desktop\Programming\CSharp\CsharpProjects\MathChallenge\obj\Debug\net8.0\MathChallenge.dll
+C:\Users\Roxze\Desktop\Programming\CSharp\CsharpProjects\MathChallenge\obj\Debug\net8.0\refint\MathChallenge.dll
+C:\Users\Roxze\Desktop\Programming\CSharp\CsharpProjects\MathChallenge\obj\Debug\net8.0\MathChallenge.pdb
+C:\Users\Roxze\Desktop\Programming\CSharp\CsharpProjects\MathChallenge\obj\Debug\net8.0\MathChallenge.genruntimeconfig.cache
+C:\Users\Roxze\Desktop\Programming\CSharp\CsharpProjects\MathChallenge\obj\Debug\net8.0\ref\MathChallenge.dll

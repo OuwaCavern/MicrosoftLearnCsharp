@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "challenge to combine string array values as strings and as integers/1.0.0": {
+        "runtime": {
+          "challenge to combine string array values as strings and as integers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "challenge to combine string array values as strings and as integers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

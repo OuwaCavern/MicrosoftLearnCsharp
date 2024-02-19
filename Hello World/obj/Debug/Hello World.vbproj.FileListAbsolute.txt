@@ -1,0 +1,11 @@
+C:\Users\Roxze\Desktop\Programming\CSharp\Hello World\bin\Debug\Hello World.exe.config
+C:\Users\Roxze\Desktop\Programming\CSharp\Hello World\bin\Debug\Hello World.exe
+C:\Users\Roxze\Desktop\Programming\CSharp\Hello World\bin\Debug\Hello World.pdb
+C:\Users\Roxze\Desktop\Programming\CSharp\Hello World\bin\Debug\Hello World.xml
+C:\Users\Roxze\Desktop\Programming\CSharp\Hello World\obj\Debug\Hello World.vbproj.AssemblyReference.cache
+C:\Users\Roxze\Desktop\Programming\CSharp\Hello World\obj\Debug\Hello_World.Resources.resources
+C:\Users\Roxze\Desktop\Programming\CSharp\Hello World\obj\Debug\Hello World.vbproj.GenerateResource.cache
+C:\Users\Roxze\Desktop\Programming\CSharp\Hello World\obj\Debug\Hello World.vbproj.CoreCompileInputs.cache
+C:\Users\Roxze\Desktop\Programming\CSharp\Hello World\obj\Debug\Hello World.exe
+C:\Users\Roxze\Desktop\Programming\CSharp\Hello World\obj\Debug\Hello World.xml
+C:\Users\Roxze\Desktop\Programming\CSharp\Hello World\obj\Debug\Hello World.pdb
