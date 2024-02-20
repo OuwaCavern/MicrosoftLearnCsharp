@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Methods with parameters/1.0.0": {
+        "runtime": {
+          "Methods with parameters.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Methods with parameters/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

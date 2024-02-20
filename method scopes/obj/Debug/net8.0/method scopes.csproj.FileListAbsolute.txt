@@ -1,0 +1,15 @@
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\method scopes\bin\Debug\net8.0\method scopes.exe
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\method scopes\bin\Debug\net8.0\method scopes.deps.json
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\method scopes\bin\Debug\net8.0\method scopes.runtimeconfig.json
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\method scopes\bin\Debug\net8.0\method scopes.dll
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\method scopes\bin\Debug\net8.0\method scopes.pdb
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\method scopes\obj\Debug\net8.0\method scopes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\method scopes\obj\Debug\net8.0\method scopes.AssemblyInfoInputs.cache
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\method scopes\obj\Debug\net8.0\method scopes.AssemblyInfo.cs
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\method scopes\obj\Debug\net8.0\method scopes.csproj.CoreCompileInputs.cache
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\method scopes\obj\Debug\net8.0\method scopes.sourcelink.json
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\method scopes\obj\Debug\net8.0\method scopes.dll
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\method scopes\obj\Debug\net8.0\refint\method scopes.dll
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\method scopes\obj\Debug\net8.0\method scopes.pdb
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\method scopes\obj\Debug\net8.0\method scopes.genruntimeconfig.cache
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\method scopes\obj\Debug\net8.0\ref\method scopes.dll

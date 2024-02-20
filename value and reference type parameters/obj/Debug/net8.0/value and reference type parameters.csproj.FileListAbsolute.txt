@@ -1,0 +1,15 @@
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\value and reference type parameters\bin\Debug\net8.0\value and reference type parameters.exe
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\value and reference type parameters\bin\Debug\net8.0\value and reference type parameters.deps.json
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\value and reference type parameters\bin\Debug\net8.0\value and reference type parameters.runtimeconfig.json
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\value and reference type parameters\bin\Debug\net8.0\value and reference type parameters.dll
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\value and reference type parameters\bin\Debug\net8.0\value and reference type parameters.pdb
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\value and reference type parameters\obj\Debug\net8.0\value and reference type parameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\value and reference type parameters\obj\Debug\net8.0\value and reference type parameters.AssemblyInfoInputs.cache
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\value and reference type parameters\obj\Debug\net8.0\value and reference type parameters.AssemblyInfo.cs
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\value and reference type parameters\obj\Debug\net8.0\value and reference type parameters.csproj.CoreCompileInputs.cache
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\value and reference type parameters\obj\Debug\net8.0\value and reference type parameters.sourcelink.json
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\value and reference type parameters\obj\Debug\net8.0\value and reference type parameters.dll
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\value and reference type parameters\obj\Debug\net8.0\refint\value and reference type parameters.dll
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\value and reference type parameters\obj\Debug\net8.0\value and reference type parameters.pdb
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\value and reference type parameters\obj\Debug\net8.0\value and reference type parameters.genruntimeconfig.cache
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\value and reference type parameters\obj\Debug\net8.0\ref\value and reference type parameters.dll

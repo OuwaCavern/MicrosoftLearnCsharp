@@ -1,0 +1,15 @@
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\Methods with parameters\bin\Debug\net8.0\Methods with parameters.exe
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\Methods with parameters\bin\Debug\net8.0\Methods with parameters.deps.json
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\Methods with parameters\bin\Debug\net8.0\Methods with parameters.runtimeconfig.json
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\Methods with parameters\bin\Debug\net8.0\Methods with parameters.dll
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\Methods with parameters\bin\Debug\net8.0\Methods with parameters.pdb
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\Methods with parameters\obj\Debug\net8.0\Methods with parameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\Methods with parameters\obj\Debug\net8.0\Methods with parameters.AssemblyInfoInputs.cache
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\Methods with parameters\obj\Debug\net8.0\Methods with parameters.AssemblyInfo.cs
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\Methods with parameters\obj\Debug\net8.0\Methods with parameters.csproj.CoreCompileInputs.cache
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\Methods with parameters\obj\Debug\net8.0\Methods with parameters.sourcelink.json
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\Methods with parameters\obj\Debug\net8.0\Methods with parameters.dll
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\Methods with parameters\obj\Debug\net8.0\refint\Methods with parameters.dll
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\Methods with parameters\obj\Debug\net8.0\Methods with parameters.pdb
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\Methods with parameters\obj\Debug\net8.0\Methods with parameters.genruntimeconfig.cache
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\Methods with parameters\obj\Debug\net8.0\ref\Methods with parameters.dll
