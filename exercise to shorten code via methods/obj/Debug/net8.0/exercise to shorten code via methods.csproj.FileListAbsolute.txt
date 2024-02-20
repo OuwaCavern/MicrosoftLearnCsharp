@@ -1,0 +1,15 @@
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\exercise to shorten code via methods\bin\Debug\net8.0\exercise to shorten code via methods.exe
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\exercise to shorten code via methods\bin\Debug\net8.0\exercise to shorten code via methods.deps.json
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\exercise to shorten code via methods\bin\Debug\net8.0\exercise to shorten code via methods.runtimeconfig.json
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\exercise to shorten code via methods\bin\Debug\net8.0\exercise to shorten code via methods.dll
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\exercise to shorten code via methods\bin\Debug\net8.0\exercise to shorten code via methods.pdb
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\exercise to shorten code via methods\obj\Debug\net8.0\exercise to shorten code via methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\exercise to shorten code via methods\obj\Debug\net8.0\exercise to shorten code via methods.AssemblyInfoInputs.cache
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\exercise to shorten code via methods\obj\Debug\net8.0\exercise to shorten code via methods.AssemblyInfo.cs
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\exercise to shorten code via methods\obj\Debug\net8.0\exercise to shorten code via methods.csproj.CoreCompileInputs.cache
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\exercise to shorten code via methods\obj\Debug\net8.0\exercise to shorten code via methods.sourcelink.json
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\exercise to shorten code via methods\obj\Debug\net8.0\exercise to shorten code via methods.dll
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\exercise to shorten code via methods\obj\Debug\net8.0\refint\exercise to shorten code via methods.dll
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\exercise to shorten code via methods\obj\Debug\net8.0\exercise to shorten code via methods.pdb
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\exercise to shorten code via methods\obj\Debug\net8.0\exercise to shorten code via methods.genruntimeconfig.cache
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\exercise to shorten code via methods\obj\Debug\net8.0\ref\exercise to shorten code via methods.dll

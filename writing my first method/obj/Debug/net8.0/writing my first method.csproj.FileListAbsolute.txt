@@ -1,0 +1,15 @@
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\writing my first method\obj\Debug\net8.0\writing my first method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\writing my first method\obj\Debug\net8.0\writing my first method.AssemblyInfoInputs.cache
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\writing my first method\obj\Debug\net8.0\writing my first method.AssemblyInfo.cs
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\writing my first method\obj\Debug\net8.0\writing my first method.csproj.CoreCompileInputs.cache
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\writing my first method\obj\Debug\net8.0\writing my first method.sourcelink.json
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\writing my first method\bin\Debug\net8.0\writing my first method.exe
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\writing my first method\bin\Debug\net8.0\writing my first method.deps.json
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\writing my first method\bin\Debug\net8.0\writing my first method.runtimeconfig.json
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\writing my first method\bin\Debug\net8.0\writing my first method.dll
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\writing my first method\bin\Debug\net8.0\writing my first method.pdb
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\writing my first method\obj\Debug\net8.0\writing my first method.dll
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\writing my first method\obj\Debug\net8.0\refint\writing my first method.dll
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\writing my first method\obj\Debug\net8.0\writing my first method.pdb
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\writing my first method\obj\Debug\net8.0\writing my first method.genruntimeconfig.cache
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\writing my first method\obj\Debug\net8.0\ref\writing my first method.dll

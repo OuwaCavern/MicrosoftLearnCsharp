@@ -1,0 +1,15 @@
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\challenge to create a reusable method\bin\Debug\net8.0\challenge to create a reusable method.exe
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\challenge to create a reusable method\bin\Debug\net8.0\challenge to create a reusable method.deps.json
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\challenge to create a reusable method\bin\Debug\net8.0\challenge to create a reusable method.runtimeconfig.json
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\challenge to create a reusable method\bin\Debug\net8.0\challenge to create a reusable method.dll
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\challenge to create a reusable method\bin\Debug\net8.0\challenge to create a reusable method.pdb
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\challenge to create a reusable method\obj\Debug\net8.0\challenge to create a reusable method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\challenge to create a reusable method\obj\Debug\net8.0\challenge to create a reusable method.AssemblyInfoInputs.cache
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\challenge to create a reusable method\obj\Debug\net8.0\challenge to create a reusable method.AssemblyInfo.cs
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\challenge to create a reusable method\obj\Debug\net8.0\challenge to create a reusable method.csproj.CoreCompileInputs.cache
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\challenge to create a reusable method\obj\Debug\net8.0\challenge to create a reusable method.sourcelink.json
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\challenge to create a reusable method\obj\Debug\net8.0\challenge to create a reusable method.dll
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\challenge to create a reusable method\obj\Debug\net8.0\refint\challenge to create a reusable method.dll
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\challenge to create a reusable method\obj\Debug\net8.0\challenge to create a reusable method.pdb
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\challenge to create a reusable method\obj\Debug\net8.0\challenge to create a reusable method.genruntimeconfig.cache
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\challenge to create a reusable method\obj\Debug\net8.0\ref\challenge to create a reusable method.dll

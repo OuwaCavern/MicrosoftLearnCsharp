@@ -1,0 +1,15 @@
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\IP adress problem\obj\Debug\net8.0\IP adress problem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\IP adress problem\obj\Debug\net8.0\IP adress problem.AssemblyInfoInputs.cache
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\IP adress problem\obj\Debug\net8.0\IP adress problem.AssemblyInfo.cs
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\IP adress problem\obj\Debug\net8.0\IP adress problem.csproj.CoreCompileInputs.cache
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\IP adress problem\obj\Debug\net8.0\IP adress problem.sourcelink.json
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\IP adress problem\bin\Debug\net8.0\IP adress problem.exe
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\IP adress problem\bin\Debug\net8.0\IP adress problem.deps.json
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\IP adress problem\bin\Debug\net8.0\IP adress problem.runtimeconfig.json
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\IP adress problem\bin\Debug\net8.0\IP adress problem.dll
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\IP adress problem\bin\Debug\net8.0\IP adress problem.pdb
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\IP adress problem\obj\Debug\net8.0\IP adress problem.dll
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\IP adress problem\obj\Debug\net8.0\refint\IP adress problem.dll
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\IP adress problem\obj\Debug\net8.0\IP adress problem.pdb
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\IP adress problem\obj\Debug\net8.0\IP adress problem.genruntimeconfig.cache
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\IP adress problem\obj\Debug\net8.0\ref\IP adress problem.dll
