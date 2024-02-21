@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "challenge to add methods to make the game playable/1.0.0": {
+        "runtime": {
+          "challenge to add methods to make the game playable.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "challenge to add methods to make the game playable/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

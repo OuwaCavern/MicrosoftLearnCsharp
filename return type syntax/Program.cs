@@ -114,22 +114,26 @@ bool IsPalindrome(string word)
 
 
 // Return arrays from methods
-int targetNumber = 8;
+int targetNumber = 10;
 int[] coinsArray = { 1, 2, 3, 4, 5, 6, 7, 8 };
-int[] TwoCoins(int[] coins, int target) 
+int[] TwoCoins(int[] coins, int target)
 {
-    for(int i = 0; i < coins.Length; i++)
+    int[] found = { -1, -1 };
+
+    for (int i = 0; i < coins.Length; i++)
     {
         int firstCoin = coins[i];
-        foreach(int coin in coins)
+        foreach (int coin in coins)
         {
             if (firstCoin + coin == target)
             {
-                int[] found = {firstCoin, coin};
-                return found;
+                found[0] = firstCoin;
+                found[1] = coin;
+                Console.WriteLine($"{firstCoin}, {coin}");
             }
-        } 
+        }
     }
+    return found;
 }
 
 TwoCoins(coinsArray, targetNumber);

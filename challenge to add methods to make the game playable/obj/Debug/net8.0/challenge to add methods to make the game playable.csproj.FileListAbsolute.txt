@@ -1,0 +1,15 @@
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\challenge to add methods to make the game playable\obj\Debug\net8.0\challenge to add methods to make the game playable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\challenge to add methods to make the game playable\obj\Debug\net8.0\challenge to add methods to make the game playable.AssemblyInfoInputs.cache
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\challenge to add methods to make the game playable\obj\Debug\net8.0\challenge to add methods to make the game playable.AssemblyInfo.cs
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\challenge to add methods to make the game playable\obj\Debug\net8.0\challenge to add methods to make the game playable.csproj.CoreCompileInputs.cache
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\challenge to add methods to make the game playable\obj\Debug\net8.0\challenge to add methods to make the game playable.sourcelink.json
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\challenge to add methods to make the game playable\bin\Debug\net8.0\challenge to add methods to make the game playable.exe
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\challenge to add methods to make the game playable\bin\Debug\net8.0\challenge to add methods to make the game playable.deps.json
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\challenge to add methods to make the game playable\bin\Debug\net8.0\challenge to add methods to make the game playable.runtimeconfig.json
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\challenge to add methods to make the game playable\bin\Debug\net8.0\challenge to add methods to make the game playable.dll
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\challenge to add methods to make the game playable\bin\Debug\net8.0\challenge to add methods to make the game playable.pdb
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\challenge to add methods to make the game playable\obj\Debug\net8.0\challenge to add methods to make the game playable.dll
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\challenge to add methods to make the game playable\obj\Debug\net8.0\refint\challenge to add methods to make the game playable.dll
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\challenge to add methods to make the game playable\obj\Debug\net8.0\challenge to add methods to make the game playable.pdb
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\challenge to add methods to make the game playable\obj\Debug\net8.0\challenge to add methods to make the game playable.genruntimeconfig.cache
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\challenge to add methods to make the game playable\obj\Debug\net8.0\ref\challenge to add methods to make the game playable.dll
