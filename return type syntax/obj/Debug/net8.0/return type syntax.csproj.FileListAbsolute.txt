@@ -1,0 +1,15 @@
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\return type syntax\bin\Debug\net8.0\return type syntax.exe
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\return type syntax\bin\Debug\net8.0\return type syntax.deps.json
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\return type syntax\bin\Debug\net8.0\return type syntax.runtimeconfig.json
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\return type syntax\bin\Debug\net8.0\return type syntax.dll
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\return type syntax\bin\Debug\net8.0\return type syntax.pdb
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\return type syntax\obj\Debug\net8.0\return type syntax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\return type syntax\obj\Debug\net8.0\return type syntax.AssemblyInfoInputs.cache
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\return type syntax\obj\Debug\net8.0\return type syntax.AssemblyInfo.cs
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\return type syntax\obj\Debug\net8.0\return type syntax.csproj.CoreCompileInputs.cache
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\return type syntax\obj\Debug\net8.0\return type syntax.sourcelink.json
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\return type syntax\obj\Debug\net8.0\return type syntax.dll
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\return type syntax\obj\Debug\net8.0\refint\return type syntax.dll
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\return type syntax\obj\Debug\net8.0\return type syntax.pdb
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\return type syntax\obj\Debug\net8.0\return type syntax.genruntimeconfig.cache
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\return type syntax\obj\Debug\net8.0\ref\return type syntax.dll

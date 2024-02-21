@@ -21,7 +21,7 @@ void Multiply(int a, int b, int c)
 
 
 //Notice that the array remains altered outside of the Clear method scope. This happens because the Clear method updated the values stored at each address.
-int[] array = {1, 2, 3, 4, 5};
+/* int[] array = {1, 2, 3, 4, 5};
 
 PrintArray(array);
 Clear(array);
@@ -42,4 +42,32 @@ void Clear(int[] array)
     {
         array[i] = 0;
     }
+} */
+
+
+//Does not work because strings are immutable
+/* string status = "Healthy";
+
+Console.WriteLine($"Start: {status}");
+SetHealth(status, false);
+Console.WriteLine($"End: {status}");
+
+void SetHealth(string status, bool isHealthy) 
+{
+    status = (isHealthy ? "Healthy" : "Unhealthy");
+    Console.WriteLine($"Middle: {status}");
+} */
+
+
+//Does work because SetHealth method is set to use the global variable instead
+string status = "Healthy";
+
+Console.WriteLine($"Start: {status}");
+SetHealth(false);
+Console.WriteLine($"End: {status}");
+
+void SetHealth(bool isHealthy) 
+{
+    status = (isHealthy ? "Healthy" : "Unhealthy");
+    Console.WriteLine($"Middle: {status}");
 }

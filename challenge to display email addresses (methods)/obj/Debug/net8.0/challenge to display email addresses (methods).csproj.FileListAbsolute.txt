@@ -1,0 +1,15 @@
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\challenge to display email addresses (methods)\obj\Debug\net8.0\challenge to display email addresses (methods).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\challenge to display email addresses (methods)\obj\Debug\net8.0\challenge to display email addresses (methods).AssemblyInfoInputs.cache
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\challenge to display email addresses (methods)\obj\Debug\net8.0\challenge to display email addresses (methods).AssemblyInfo.cs
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\challenge to display email addresses (methods)\obj\Debug\net8.0\challenge to display email addresses (methods).csproj.CoreCompileInputs.cache
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\challenge to display email addresses (methods)\obj\Debug\net8.0\challenge to display email addresses (methods).sourcelink.json
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\challenge to display email addresses (methods)\bin\Debug\net8.0\challenge to display email addresses (methods).exe
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\challenge to display email addresses (methods)\bin\Debug\net8.0\challenge to display email addresses (methods).deps.json
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\challenge to display email addresses (methods)\bin\Debug\net8.0\challenge to display email addresses (methods).runtimeconfig.json
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\challenge to display email addresses (methods)\bin\Debug\net8.0\challenge to display email addresses (methods).dll
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\challenge to display email addresses (methods)\bin\Debug\net8.0\challenge to display email addresses (methods).pdb
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\challenge to display email addresses (methods)\obj\Debug\net8.0\challenge to display email addresses (methods).dll
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\challenge to display email addresses (methods)\obj\Debug\net8.0\refint\challenge to display email addresses (methods).dll
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\challenge to display email addresses (methods)\obj\Debug\net8.0\challenge to display email addresses (methods).pdb
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\challenge to display email addresses (methods)\obj\Debug\net8.0\challenge to display email addresses (methods).genruntimeconfig.cache
+C:\Users\emirc\OneDrive\Desktop\CsharpProjects\challenge to display email addresses (methods)\obj\Debug\net8.0\ref\challenge to display email addresses (methods).dll
