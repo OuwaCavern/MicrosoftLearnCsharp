@@ -26,3 +26,4 @@ C:\Users\emirc\OneDrive\Desktop\CsharpProjects\3 Dice Rolls Project\obj\Debug\ne
 C:\Users\emirc\OneDrive\Desktop\CsharpProjects\3 Dice Rolls Project\obj\Debug\net8.0\TestProject.pdb
 C:\Users\emirc\OneDrive\Desktop\CsharpProjects\3 Dice Rolls Project\obj\Debug\net8.0\TestProject.genruntimeconfig.cache
 C:\Users\emirc\OneDrive\Desktop\CsharpProjects\3 Dice Rolls Project\obj\Debug\net8.0\ref\TestProject.dll
+c:\Users\emirc\OneDrive\Desktop\CsharpProjects\3 Dice Rolls Project\obj\Debug\net8.0\TestProject.sourcelink.json
