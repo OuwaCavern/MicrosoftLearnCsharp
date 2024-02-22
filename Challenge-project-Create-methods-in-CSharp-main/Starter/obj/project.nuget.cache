@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "VC7H4x2ehIRHIjlvb4eeKF4XYYNXp6kFPiXjPeHWrcbwdVIpjigGBpzdmt5eBp1P8q0agwaVw2d7EEfdY6sY0g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\emirc\\OneDrive\\Desktop\\CsharpProjects\\Challenge-project-Create-methods-in-CSharp-main\\Starter\\Starter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\emirc\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\emirc\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\emirc\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\emirc\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}

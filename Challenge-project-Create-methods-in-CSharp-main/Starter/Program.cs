@@ -36,6 +36,39 @@ bool TerminalResized()
     return height != Console.WindowHeight - 1 || width != Console.WindowWidth - 5;
 }
 
+void GameTermination()
+{
+    if(TerminalResized())
+    {
+        shouldExit = true;
+        Console.WriteLine("Console was resized. Program exiting.");
+        Thread.Sleep(800);
+    }
+}
+
+void ConsumedFood()
+{
+    if(playerX == foodX && playerY == foodY && food == 2)
+    {
+        ChangePlayer();
+        PlayerFreezed();
+        ShowFood();
+    }
+    else if(playerX == foodX && playerY == foodY)
+    {
+        ChangePlayer();
+        ShowFood();
+    }
+}
+
+void PlayerFreezed()
+{
+    if(player == states[2])
+    {
+        Thread.Sleep(1000);
+    }
+}
+
 // Displays random food at a random location
 void ShowFood() 
 {
@@ -59,15 +92,8 @@ void ChangePlayer()
     Console.Write(player);
 }
 
-// Temporarily stops the player from moving
-void FreezePlayer() 
-{
-    System.Threading.Thread.Sleep(1000);
-    player = states[0];
-}
-
 // Reads directional input from the Console and moves the player
-void Move() 
+void Move(bool optionalTermination = false, movementSpeedBoost = false) 
 {
     int lastX = playerX;
     int lastY = playerY;
@@ -75,21 +101,68 @@ void Move()
     switch (Console.ReadKey(true).Key) 
     {
         case ConsoleKey.UpArrow:
-            playerY--; 
+            if(player == "(^-^)" && movementSpeedBoost = true)
+            {
+                playerY -= 4;
+            }
+            else
+            {
+                playerY--;
+            }
+            TerminalResized();
+            GameTermination();
+            ConsumedFood();
             break;
 		case ConsoleKey.DownArrow: 
-            playerY++; 
+            if(player == "(^-^)" && movementSpeedBoost = true)
+            {
+                playerY += 4;
+            }
+            else
+            {
+                playerY++; 
+            }
+            TerminalResized();
+            GameTermination();
+            ConsumedFood();
             break;
 		case ConsoleKey.LeftArrow:  
-            playerX--; 
+            if(player == "(^-^)" && movementSpeedBoost = true)
+            {
+                playerX -= 4;
+            }
+            else
+            {
+                playerX--;
+            }
+            TerminalResized();
+            GameTermination();
+            ConsumedFood();
             break;
 		case ConsoleKey.RightArrow: 
-            playerX++; 
+            if(player == "(^-^)" && movementSpeedBoost = true)
+            {
+                playerX += 4;
+            }
+            else
+            {
+                playerX++;
+            }
+            TerminalResized();
+            GameTermination();
+            ConsumedFood();
             break;
 		case ConsoleKey.Escape:     
-            shouldExit = true; 
+            shouldExit = true;
+            break;
+        default:
+            if (optionalTermination)
+            {
+                shouldExit = true;
+            }
             break;
     }
+
 
     // Clear the characters at the previous position
     Console.SetCursorPosition(lastX, lastY);
