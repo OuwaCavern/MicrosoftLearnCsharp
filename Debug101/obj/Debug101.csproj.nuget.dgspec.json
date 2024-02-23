@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\emirc\\OneDrive\\Desktop\\CsharpProjects\\3 Dice Rolls Project\\TestProject.csproj": {}
+    "C:\\Users\\emirc\\OneDrive\\Desktop\\CsharpProjects\\Debug101\\Debug101.csproj": {}
   },
   "projects": {
-    "C:\\Users\\emirc\\OneDrive\\Desktop\\CsharpProjects\\3 Dice Rolls Project\\TestProject.csproj": {
+    "C:\\Users\\emirc\\OneDrive\\Desktop\\CsharpProjects\\Debug101\\Debug101.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\emirc\\OneDrive\\Desktop\\CsharpProjects\\3 Dice Rolls Project\\TestProject.csproj",
-        "projectName": "TestProject",
-        "projectPath": "C:\\Users\\emirc\\OneDrive\\Desktop\\CsharpProjects\\3 Dice Rolls Project\\TestProject.csproj",
+        "projectUniqueName": "C:\\Users\\emirc\\OneDrive\\Desktop\\CsharpProjects\\Debug101\\Debug101.csproj",
+        "projectName": "Debug101",
+        "projectPath": "C:\\Users\\emirc\\OneDrive\\Desktop\\CsharpProjects\\Debug101\\Debug101.csproj",
         "packagesPath": "C:\\Users\\emirc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\emirc\\OneDrive\\Desktop\\CsharpProjects\\3 Dice Rolls Project\\obj\\",
+        "outputPath": "C:\\Users\\emirc\\OneDrive\\Desktop\\CsharpProjects\\Debug101\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
