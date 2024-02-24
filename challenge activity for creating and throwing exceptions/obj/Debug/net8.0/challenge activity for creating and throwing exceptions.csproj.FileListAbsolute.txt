@@ -1,0 +1,15 @@
+C:\Users\Roxze\Desktop\Programming\CSharp\challenge activity for creating and throwing exceptions\bin\Debug\net8.0\challenge activity for creating and throwing exceptions.exe
+C:\Users\Roxze\Desktop\Programming\CSharp\challenge activity for creating and throwing exceptions\bin\Debug\net8.0\challenge activity for creating and throwing exceptions.deps.json
+C:\Users\Roxze\Desktop\Programming\CSharp\challenge activity for creating and throwing exceptions\bin\Debug\net8.0\challenge activity for creating and throwing exceptions.runtimeconfig.json
+C:\Users\Roxze\Desktop\Programming\CSharp\challenge activity for creating and throwing exceptions\bin\Debug\net8.0\challenge activity for creating and throwing exceptions.dll
+C:\Users\Roxze\Desktop\Programming\CSharp\challenge activity for creating and throwing exceptions\bin\Debug\net8.0\challenge activity for creating and throwing exceptions.pdb
+C:\Users\Roxze\Desktop\Programming\CSharp\challenge activity for creating and throwing exceptions\obj\Debug\net8.0\challenge activity for creating and throwing exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roxze\Desktop\Programming\CSharp\challenge activity for creating and throwing exceptions\obj\Debug\net8.0\challenge activity for creating and throwing exceptions.AssemblyInfoInputs.cache
+C:\Users\Roxze\Desktop\Programming\CSharp\challenge activity for creating and throwing exceptions\obj\Debug\net8.0\challenge activity for creating and throwing exceptions.AssemblyInfo.cs
+C:\Users\Roxze\Desktop\Programming\CSharp\challenge activity for creating and throwing exceptions\obj\Debug\net8.0\challenge activity for creating and throwing exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Roxze\Desktop\Programming\CSharp\challenge activity for creating and throwing exceptions\obj\Debug\net8.0\challenge activity for creating and throwing exceptions.sourcelink.json
+C:\Users\Roxze\Desktop\Programming\CSharp\challenge activity for creating and throwing exceptions\obj\Debug\net8.0\challenge activity for creating and throwing exceptions.dll
+C:\Users\Roxze\Desktop\Programming\CSharp\challenge activity for creating and throwing exceptions\obj\Debug\net8.0\refint\challenge activity for creating and throwing exceptions.dll
+C:\Users\Roxze\Desktop\Programming\CSharp\challenge activity for creating and throwing exceptions\obj\Debug\net8.0\challenge activity for creating and throwing exceptions.pdb
+C:\Users\Roxze\Desktop\Programming\CSharp\challenge activity for creating and throwing exceptions\obj\Debug\net8.0\challenge activity for creating and throwing exceptions.genruntimeconfig.cache
+C:\Users\Roxze\Desktop\Programming\CSharp\challenge activity for creating and throwing exceptions\obj\Debug\net8.0\ref\challenge activity for creating and throwing exceptions.dll
