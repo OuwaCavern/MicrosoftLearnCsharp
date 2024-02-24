@@ -1,0 +1,15 @@
+C:\Users\Roxze\Desktop\Programming\CSharp\Exceptions111\bin\Debug\net8.0\Exceptions111.exe
+C:\Users\Roxze\Desktop\Programming\CSharp\Exceptions111\bin\Debug\net8.0\Exceptions111.deps.json
+C:\Users\Roxze\Desktop\Programming\CSharp\Exceptions111\bin\Debug\net8.0\Exceptions111.runtimeconfig.json
+C:\Users\Roxze\Desktop\Programming\CSharp\Exceptions111\bin\Debug\net8.0\Exceptions111.dll
+C:\Users\Roxze\Desktop\Programming\CSharp\Exceptions111\bin\Debug\net8.0\Exceptions111.pdb
+C:\Users\Roxze\Desktop\Programming\CSharp\Exceptions111\obj\Debug\net8.0\Exceptions111.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roxze\Desktop\Programming\CSharp\Exceptions111\obj\Debug\net8.0\Exceptions111.AssemblyInfoInputs.cache
+C:\Users\Roxze\Desktop\Programming\CSharp\Exceptions111\obj\Debug\net8.0\Exceptions111.AssemblyInfo.cs
+C:\Users\Roxze\Desktop\Programming\CSharp\Exceptions111\obj\Debug\net8.0\Exceptions111.csproj.CoreCompileInputs.cache
+C:\Users\Roxze\Desktop\Programming\CSharp\Exceptions111\obj\Debug\net8.0\Exceptions111.sourcelink.json
+C:\Users\Roxze\Desktop\Programming\CSharp\Exceptions111\obj\Debug\net8.0\Exceptions111.dll
+C:\Users\Roxze\Desktop\Programming\CSharp\Exceptions111\obj\Debug\net8.0\refint\Exceptions111.dll
+C:\Users\Roxze\Desktop\Programming\CSharp\Exceptions111\obj\Debug\net8.0\Exceptions111.pdb
+C:\Users\Roxze\Desktop\Programming\CSharp\Exceptions111\obj\Debug\net8.0\Exceptions111.genruntimeconfig.cache
+C:\Users\Roxze\Desktop\Programming\CSharp\Exceptions111\obj\Debug\net8.0\ref\Exceptions111.dll

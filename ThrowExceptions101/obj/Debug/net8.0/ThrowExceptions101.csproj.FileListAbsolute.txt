@@ -1,0 +1,15 @@
+C:\Users\Roxze\Desktop\Programming\CSharp\ThrowExceptions101\bin\Debug\net8.0\ThrowExceptions101.exe
+C:\Users\Roxze\Desktop\Programming\CSharp\ThrowExceptions101\bin\Debug\net8.0\ThrowExceptions101.deps.json
+C:\Users\Roxze\Desktop\Programming\CSharp\ThrowExceptions101\bin\Debug\net8.0\ThrowExceptions101.runtimeconfig.json
+C:\Users\Roxze\Desktop\Programming\CSharp\ThrowExceptions101\bin\Debug\net8.0\ThrowExceptions101.dll
+C:\Users\Roxze\Desktop\Programming\CSharp\ThrowExceptions101\bin\Debug\net8.0\ThrowExceptions101.pdb
+C:\Users\Roxze\Desktop\Programming\CSharp\ThrowExceptions101\obj\Debug\net8.0\ThrowExceptions101.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roxze\Desktop\Programming\CSharp\ThrowExceptions101\obj\Debug\net8.0\ThrowExceptions101.AssemblyInfoInputs.cache
+C:\Users\Roxze\Desktop\Programming\CSharp\ThrowExceptions101\obj\Debug\net8.0\ThrowExceptions101.AssemblyInfo.cs
+C:\Users\Roxze\Desktop\Programming\CSharp\ThrowExceptions101\obj\Debug\net8.0\ThrowExceptions101.csproj.CoreCompileInputs.cache
+C:\Users\Roxze\Desktop\Programming\CSharp\ThrowExceptions101\obj\Debug\net8.0\ThrowExceptions101.sourcelink.json
+C:\Users\Roxze\Desktop\Programming\CSharp\ThrowExceptions101\obj\Debug\net8.0\ThrowExceptions101.dll
+C:\Users\Roxze\Desktop\Programming\CSharp\ThrowExceptions101\obj\Debug\net8.0\refint\ThrowExceptions101.dll
+C:\Users\Roxze\Desktop\Programming\CSharp\ThrowExceptions101\obj\Debug\net8.0\ThrowExceptions101.pdb
+C:\Users\Roxze\Desktop\Programming\CSharp\ThrowExceptions101\obj\Debug\net8.0\ThrowExceptions101.genruntimeconfig.cache
+C:\Users\Roxze\Desktop\Programming\CSharp\ThrowExceptions101\obj\Debug\net8.0\ref\ThrowExceptions101.dll
